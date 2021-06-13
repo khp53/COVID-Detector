@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583076211205",
+    "firebase_url": "https://covid-detector-dbdcb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "covid-detector-dbdcb",
+    "storage_bucket": "covid-detector-dbdcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583076211205:android:e3db4b44849bb29e754a6c",
+        "android_client_info": {
+          "package_name": "com.example.covid_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583076211205-j6b1raupul1je03krr6qjlb8uv0htjsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9e3lGPuq5MQnMTSDyFcjHvlCwI_R1vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583076211205-j6b1raupul1je03krr6qjlb8uv0htjsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

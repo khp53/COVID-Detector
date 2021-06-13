@@ -1,0 +1,4 @@
+#Mon May 10 17:18:52 SGT 2021
+base.0=G\:\\UTM\\Sem 7\\RTSE\\Project 1\\covid_detector\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
