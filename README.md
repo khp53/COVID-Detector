@@ -1,16 +1,29 @@
-# covid_detector
+# COVID Detector
 
-A new Flutter project.
+## Features:
+- Temp collection from arduino uno, temp sensor, wifi module
+- Tensor Flow Model to detect mask
+- Flutter tflite
+- Automatic Mask detection from camera picture
+- After mask detected then collect temp
+- Tempareture data stores in Firebase Realtime DB
+- Fetch Temp data from firebase
+- If temp low show QR to enter the place
+- Reset temp collect counter
+- Admin Dashboard
+- Admin can see data in chart
 
-## Getting Started
+## Screen Caps Mobile App
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/1.jpg" width="350">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/2.jpg" width="350">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/3.jpg" width="350">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/4.jpg" width="350">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/5.jpg" width="350">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/6.jpg" width="350">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/7.jpg" width="350">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/8.jpg" width="350">
+  <img src="https://github.com/khp53/COVID-Detector/blob/master/assets/screenshots/9.jpg" width="350">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
